@@ -12,3 +12,5 @@
     - FFT
     - MSGEQ7 (Within Spectrum Shield breakout board)
     - WS1128B (Ledstrip)
+    
+- Demonstration Video @ https://youtu.be/fAoCIjFmzco .
